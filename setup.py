@@ -9,4 +9,10 @@ setup(
         "numpy~=1.21.6",
         "scipy~=1.7.3",
     ],
+    author="Javier",
+    author_email="javier.gonzalezbonilla@getrev.ai",
+    description="Solution for the advent of code 2023",
+    long_description=open("README.md").read(),
+    long_description_content_type="text/markdown",
+    url="git@github.com:javiergonzalezbonilla/advent_of_code_2023.git",
 )
