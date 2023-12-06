@@ -1,5 +1,5 @@
 from unittest import TestCase
-from advent_of_code_2023.day1 import solution
+from advent_of_code_2023.day_1 import solution
 
 
 class DayOneSolutionTestCase(TestCase):
